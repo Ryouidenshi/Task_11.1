@@ -18,4 +18,6 @@ public class Main {
         t3.join();
         System.out.println("Total: " + Lucky.LuckyThread.getCount());
     }
+
+
 }
